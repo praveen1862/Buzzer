@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+    display:block;
+}
+h1{
+    margin-top: 80px;
+    text-align: center;
+    color:brown;
+}
+.buzzer{
+    align-items: center;
+    margin-top: 50px;
+    color:burlywood;
+    padding: 90px 120px;
+    font-size: 30px;
+    background-color: brown;
+    border-radius: 20px;
+    border-width: 0px;
+}
+.buzzer:hover{
+    background-color: burlywood;
+    color: brown;
+}
+.buzzer::after{
+    background-color: gainsboro;
+    color: gray;
+}
