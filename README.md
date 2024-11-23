@@ -42,8 +42,7 @@ Each user enters their name upon opening the web app.
 Users compete to press the "Buzz" button first.
 The name of the first user to buzz is displayed, and the buzzer is locked for everyone else.
 The reset functionality clears the state, allowing for a new round.
-Screenshots 📸
-Coming soon!
+
 
 Contributing 🤝
 Contributions are welcome! Feel free to:
